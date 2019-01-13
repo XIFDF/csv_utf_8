@@ -45,10 +45,10 @@ void csv_utf_8::dropEvent(QDropEvent *event)
 	foreach(QUrl url, urls) {
 		QString file_url = url.toLocalFile();
 		if (isTxt(file_url) == 0) {
-			QMessageBox::about(NULL, QString::fromLocal8Bit("警告"), QString::fromLocal8Bit("文件格式应为txt").insert(0, file_url));
+			QMessageBox::about(NULL, QStringLiteral("警告"), QStringLiteral("文件格式应为txt").insert(0, file_url));
 		}
 		else if (isHave(file_url) == 1) {
-			QMessageBox::about(NULL, QString::fromLocal8Bit("警告"), QString::fromLocal8Bit("文件已经存在").insert(0, file_url));
+			QMessageBox::about(NULL, QStringLiteral("警告"), QStringLiteral("文件已经存在").insert(0, file_url));
 		}
 		else {
 			int Row = ui.tableWidget->rowCount();
@@ -95,7 +95,7 @@ void csv_utf_8::getCsv() {
 	for (int i = 0; i < tabelDate.length(); i++) {
 		getCsv_(tabelDate[i]);
 	}
-	QMessageBox::about(NULL, QString::fromLocal8Bit("提示"), QString::fromLocal8Bit("生成完毕!"));
+	QMessageBox::about(NULL, QStringLiteral("提示"), QStringLiteral("生成完毕!"));
 
 }
 
