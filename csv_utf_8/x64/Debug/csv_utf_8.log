@@ -1,0 +1,3 @@
+﻿  csv_utf_8.cpp
+f:\github\csv_utf_8\csv_utf_8\csv_utf_8.cpp(26): error C2509: “dropEvent”: 成员函数没有在“csv_utf_8”中声明
+  f:\github\csv_utf_8\csv_utf_8\csv_utf_8.h(9): note: 参见“csv_utf_8”的声明

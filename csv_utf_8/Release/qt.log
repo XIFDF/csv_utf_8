@@ -1,0 +1,3 @@
+csv_utf_8.h|"F:\GitHub\csv_utf_8\csv_utf_8\csv_utf_8.h" -o ".\GeneratedFiles\Release\moc_csv_utf_8.cpp" "-I.\GeneratedFiles" "-I." "-IF:\Qt\5.10.0\msvc2015\include" "-I.\GeneratedFiles\Release" "-IF:\Qt\5.10.0\msvc2015\include\QtCore" "-IF:\Qt\5.10.0\msvc2015\include\QtGui" "-IF:\Qt\5.10.0\msvc2015\include\QtANGLE" "-IF:\Qt\5.10.0\msvc2015\include\QtWidgets" -DQT_NO_DEBUG -DNDEBUG -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -D_UNICODE -DWIN32 -DWIN64
+csv_utf_8.qrc|"F:\GitHub\csv_utf_8\csv_utf_8\csv_utf_8.qrc" -o ".\GeneratedFiles\qrc_csv_utf_8.cpp" --name csv_utf_8
+csv_utf_8.ui|"F:\GitHub\csv_utf_8\csv_utf_8\csv_utf_8.ui" -o ".\GeneratedFiles\ui_csv_utf_8.h"
