@@ -120,7 +120,7 @@ public:
         label->setText(QApplication::translate("csv_utf_8Class", "\350\275\254\347\240\201\345\271\266\346\267\273\345\212\240\346\240\274\345\274\217\347\232\204csv\346\226\207\344\273\266", nullptr));
         pushButton_2->setText(QApplication::translate("csv_utf_8Class", "\347\224\237\346\210\220", nullptr));
         label_2->setText(QApplication::translate("csv_utf_8Class", "\345\234\250\345\220\204\350\207\252txt\346\226\207\344\273\266\347\232\204\347\233\256\345\275\225\344\270\213\347\224\237\346\210\220", nullptr));
-        label_3->setText(QApplication::translate("csv_utf_8Class", "\350\257\267\345\260\206\345\234\250Excel", nullptr));
+        label_3->setText(QApplication::translate("csv_utf_8Class", "\350\257\267\345\260\206Excel", nullptr));
         label_4->setText(QApplication::translate("csv_utf_8Class", "\344\270\255\347\224\237\346\210\220\347\232\204txt", nullptr));
         label_5->setText(QApplication::translate("csv_utf_8Class", "\346\213\226\346\213\275\350\277\233\345\267\246\346\226\271", nullptr));
         label_6->setText(QApplication::translate("csv_utf_8Class", "\347\232\204\350\241\250\346\240\274\344\270\255", nullptr));

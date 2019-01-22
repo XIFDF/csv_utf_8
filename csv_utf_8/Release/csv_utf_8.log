@@ -1,9 +1,2 @@
-﻿  Moc'ing csv_utf_8.h...
-  Rcc'ing csv_utf_8.qrc...
-  Uic'ing csv_utf_8.ui...
-  RCC: Warning: No resources in 'F:\GitHub\csv_utf_8\csv_utf_8\csv_utf_8.qrc'.
-  csv_utf_8.cpp
-  main.cpp
-  moc_csv_utf_8.cpp
-  qrc_csv_utf_8.cpp
+﻿  main.cpp
   csv_utf_8.vcxproj -> F:\GitHub\csv_utf_8\Win32\Release\csv_utf_8.exe
